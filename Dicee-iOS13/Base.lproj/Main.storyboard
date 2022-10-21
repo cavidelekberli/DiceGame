@@ -37,7 +37,7 @@
                                 <rect key="frame" x="153" y="656" width="131" height="70"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Roll">
+                                <buttonConfiguration key="configuration" style="plain" title="Roll Again">
                                     <backgroundConfiguration key="background">
                                         <color key="backgroundColor" red="0.56078433989999998" green="0.1607843041" blue="0.14901961389999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                     </backgroundConfiguration>
